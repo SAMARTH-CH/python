@@ -1,3 +1,4 @@
+print('samarth\n1AY24AI097')
 def is_valid_chess_board(board):
     piece_counts = {}
     white_king = 0
