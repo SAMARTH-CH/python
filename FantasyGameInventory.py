@@ -1,3 +1,4 @@
+print('samarth\n1AY24AI097')
 def display_inventory(inventory):
     print("Inventory:")
     item_total = 0
