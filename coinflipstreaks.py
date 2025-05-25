@@ -1,5 +1,5 @@
 import random
-
+print('samarth \n 1AY24AI097')
 def flip_coin_streaks(num_flips):
     streak = 1
     last_flip = random.choice(['Heads', 'Tails'])
