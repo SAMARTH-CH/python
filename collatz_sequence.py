@@ -1,3 +1,4 @@
+print('samarth\n1AY24AI097')
 def collatz_sequence(n):
     print(n)
     while n != 1:
